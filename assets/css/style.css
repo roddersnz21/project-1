@@ -211,3 +211,15 @@ body {
     background: #fff;
 }
 
+.booking-img {
+    width: 50%;
+}
+
+.booking-img img {
+    display: block;
+    height: 400px;
+    width: 100%;
+    object-position: center;
+    object-fit: cover;
+}
+
