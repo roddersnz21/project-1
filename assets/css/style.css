@@ -231,3 +231,43 @@ body {
     font-size: 1.6rem;
 }
 
+.container-form {
+    padding: 20px 0;
+    margin: 0 auto;
+    color: #000;
+}
+
+form {
+    display: grid;
+    row-gap: 20px;
+}
+
+form p {
+    font-weight: 600;
+}
+
+.form-field {
+    display: flex;
+    justify-content: space-between;
+}
+
+input, select {
+    pad: 10px 15px;
+}
+
+.btn {
+    background-color: rgba(0, 0, 0, 0.95);
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    font-size: 1.2rem;
+    border-radius: 100px;
+    box-shadow: 8px 10px 12px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: all .3s;
+}
+
+.btn:hover {
+    transform: scale(1.03);
+    box-shadow: 10px 12px 15px rgba(0, 0, 0, 0.3);
+}
