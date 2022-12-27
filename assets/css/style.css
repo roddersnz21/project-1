@@ -10,12 +10,6 @@ body {
     font-family: "Poppins", sans-serif;
 }
 
-.container {
-    max-width: 100%;
-    width: 100%;
-    margin: auto;
-}
-
 .button {
     display: inline-block;
     padding: 0.5em 1.5em;
@@ -198,3 +192,42 @@ body {
     color: red;
     font-weight: 700;
 }
+
+/* bookings */
+
+#bookings {
+    font-weight: 400;
+    color: #fff;
+    letter-spacing: 1px;
+}
+
+.container {
+    background-color: #fafafa;
+    margin: auto;
+    box-shadow: 10px 15px 20px rgba(0, 0, 0, 0.1);
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+
+.container-time {
+    background-color: rgba(0, 0, 0, 0.95);
+    padding: 50px;
+    outline: 3px dashed #998100;
+    outline-offset: -30px;
+    text-align: center;
+}
+
+.heading {
+    font-size: 1.8rem;
+    text-transform: uppercase;
+}
+
+.heading-days {
+    color: #998100;
+    font-size: 1.6rem;
+}
+
+.heading-phone {
+    font-size: 1.6rem;
+}
+
