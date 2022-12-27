@@ -198,28 +198,3 @@ body {
     color: red;
     font-weight: 700;
 }
-
-/* contact us */
-
-#booking {
-    padding: 5rem 0;
-    background: rgb(226, 226, 226);
-}
-
-.booking-container {
-    display: flex;
-    background: #fff;
-}
-
-.booking-img {
-    width: 50%;
-}
-
-.booking-img img {
-    display: block;
-    height: 400px;
-    width: 100%;
-    object-position: center;
-    object-fit: cover;
-}
-
