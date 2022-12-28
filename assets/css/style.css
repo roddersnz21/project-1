@@ -274,4 +274,26 @@ input, select {
 
 /* footer */
 
+.social-media {
+    padding: 40px;
+    text-align: center;
+}
+
+.social-media a {
+    font-size: 2.4rem;
+    color: inherit;
+    border: 1px solid #000;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 50%;
+    margin: 0 8px;
+    opacity: 0.75;
+}
+
+.social-media a:hover {
+    opacity: 0.9;
+}
 
