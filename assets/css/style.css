@@ -10,25 +10,6 @@ body {
     font-family: "Poppins", sans-serif;
 }
 
-.button {
-    display: inline-block;
-    padding: 0.5em 1.5em;
-    text-decoration: none;
-    border-radius: 50px;
-    cursor: pointer;
-    outline: none;
-    margin-top: 1em;
-    text-transform: uppercase;
-    font-weight: small;
-    color: #fff;
-    background: #444;
-}
-
-.button:hover {
-    background: #e84401;
-    transition: 0.2s ease-in-out;
-}
-
 /* navbar */
 
 .navbar {
@@ -53,11 +34,13 @@ body {
     order: 1;
     font-size: 2.5rem;
     margin-bottom: 0.5rem;
+    margin-left: 30px;
 }
 
 .menubar {
     order: 2;
     display: flex;
+    margin-right: 30px;
 }
 
 .menubar li {
@@ -82,33 +65,56 @@ body {
 /* showcase */
 
 .showcase-area {
-    height: 50vh;
-    background: linear-gradient(rgba(240, 240, 240, 0.144),
-            rgba(255, 255, 255, 0.336)),
-        url('../images/hero-image1.jpg');
+    position: relative;
+    background: linear-gradient(rgba(240, 240, 240, 0.144), rgba(255, 255, 255, 0.336)), 
+                url(../images/hero-image1.jpg) no-repeat center;
     background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    height: 600px;
+    overflow: hidden;
 }
 
 .showcase-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 100%;
-    font-size: 1.6rem;
-}
-
-.slogan {
-    text-transform: uppercase;
-    margin-top: 1.5em;
-    color: #fff
-}
-
-.showcase-container p {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
     color: #fff;
+    font-weight: 700;
+    text-transform: uppercase;
 }
+
+.showcase-container h1 {
+    margin: 0;
+    font-size: 3.0rem;
+}
+
+.showcase-container h1 span {
+    border: 6px solid #fff;
+    padding: 6px 14px;
+    display: inline-block;
+}
+
+.cen {
+    margin: 20px;
+    display: block;
+    font-size: 2rem;
+}
+
+.button {
+    color: #313131;
+    padding: 10px 24px;
+    background: #f1f1f1;
+    text-decoration: none;
+    border-radius: 12px;
+    transition: .6s;
+}
+
+.button:hover {
+    background: #e84401;
+    transition: 0.2s ease-in-out;
+}
+
 
 /* about us */
 
