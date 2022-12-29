@@ -255,7 +255,7 @@ form p {
 }
 
 input, select {
-    pad: 10px 15px;
+    padding: 10px 15px;
 }
 
 .btn {
