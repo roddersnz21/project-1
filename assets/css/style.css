@@ -230,6 +230,11 @@ body {
     font-size: 1.6rem;
 }
 
+hr {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
 .heading-phone {
     font-size: 1.6rem;
 }
