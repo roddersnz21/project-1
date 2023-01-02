@@ -214,10 +214,12 @@ body {
 
 .container {
     background-color: rgb(220, 220, 220);
-    margin: auto;
+    max-width: 1200px;
+    margin: 0 auto;
     box-shadow: 10px 15px 20px rgba(0, 0, 0, 0.1);
     display: grid;
-    grid-template-columns: 40% 60%;
+    gap: 1rem;
+    grid-template-columns: repeat(auto-fit, minmax(390px, 1fr));
 }
 
 .container-time {
