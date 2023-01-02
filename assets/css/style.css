@@ -309,6 +309,12 @@ input, select {
     opacity: 0.9;
 }
 
+/* Confirmation.html page */
+
+.logo {
+    font-style: italic;
+}
+
 /* media queries */
 
 @media screen and (max-width: 605px) {
