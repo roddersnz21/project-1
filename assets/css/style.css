@@ -67,7 +67,7 @@ body {
 .showcase-area {
     position: relative;
     background: linear-gradient(rgba(240, 240, 240, 0.144), rgba(255, 255, 255, 0.336)), 
-                url(../images/hero-image1.jpg) no-repeat center;
+                url(../images/hero-image.jpg) no-repeat center;
     background-size: cover;
     height: 650px;
     overflow: hidden;
