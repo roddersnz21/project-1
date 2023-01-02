@@ -260,10 +260,6 @@ form {
     row-gap: 20px;
 }
 
-form p {
-    font-weight: 600;
-}
-
 .form-field {
     display: flex;
     justify-content: space-between;
