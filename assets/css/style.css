@@ -311,8 +311,24 @@ input, select {
 
 /* Confirmation.html page */
 
-.logo {
-    font-style: italic;
+.confirmation {
+    background: url(../images/confirmation.webp) no-repeat center center;
+    background-size: cover;
+    color: #fff;
+    width: 100%;
+    height: 650px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.yes {
+    display: flex;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.6rem;
 }
 
 /* media queries */
