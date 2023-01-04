@@ -358,6 +358,7 @@ input, select {
 
 @media screen and (max-width: 500px) {
     body {
-        width: 150%;
+        width: 120%;
+        margin: 0 auto;
     }
 }
