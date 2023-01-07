@@ -9,7 +9,23 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
 - As a customer I want an objective and easy to use navbar menu
 - As a customer I would like to read the history of the restaurant
 - As a customer I want to choose a pizza from the menu
-- As a customer I want to make a reservation
+- As a customer I want to check pizza prices
+- As a customer I want to check opening days and hours
+- As a customer I want to check the address and contact number
+- As a customer I want to make a booking
+- As a customer I want confirmation of my booking
+
+## **Features**
+
+- ### Navigation Bar
+    ![Navigation Bar](docs/navbar.jpg)
+    - Navigation bar indicates different sections of the website
+    - Navigation bar is always visible
+    - Navigation bar links will highlight red when hovered
+    - Navigtion bar has a shadow and opacity effect
+
+
+
 
 
 
