@@ -40,7 +40,13 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
     - Images, description and price of six types of pizza
     - Images are circled in the shape of pizzas
 
-
+- ### Booking
+    ![Booking](docs/booking.jpg)
+    - Booking section in a grid display separated in two
+    - One box includes restaurant's opening days and times, contact number and address
+    - Other box is a form with fields for full name, phone number, email, date, time and number of people.
+    - Submit button has a hover effect and shadow
+    - Once submit button is clicked, it'll take user to confirmation page
 
 
 
