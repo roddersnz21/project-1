@@ -48,6 +48,12 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
     - Submit button has a hover effect and shadow
     - Once submit button is clicked, it'll take user to confirmation page
 
+- ### Footer
+    ![Footer](docs/footer.jpg)
+    - Footer section with five clickable social media icons
+    - Icons have hover effect
+
+
 
 
 
