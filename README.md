@@ -35,6 +35,14 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
     - Section with image and info about history and ingredients used to make pizza
     - Text divided into two seperate paragraphs to giving good visual effect, short and easy to read
 
+- ### Menu
+    ![Menu](docs/pizza-menu.jpg)
+    - Images, description and price of six types of pizza
+    - Images are circled in the shape of pizzas
+
+
+
+
 
 
 
