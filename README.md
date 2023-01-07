@@ -53,6 +53,10 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
     - Footer section with five clickable social media icons
     - Icons have hover effect
 
+- ### Confirmation page
+    ![Confirmation page](docs/confirmation-page.jpg)
+    - This page confirms user's booking after submitting form
+
 
 
 
