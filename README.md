@@ -24,6 +24,12 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
     - Navigation bar links will highlight red when hovered
     - Navigtion bar has a shadow and opacity effect
 
+- ### Hero image and slogan
+    ![Hero image and slogan](docs/hero%20image%20and%20slogan.jpg)
+    - Background image with linear gradient effect
+    - Slogan inside a box to grab users attention and overlay text reinforcing business' authenticity
+    - Menu button with hover effect will take user to menu section after clicking it
+
 
 
 
