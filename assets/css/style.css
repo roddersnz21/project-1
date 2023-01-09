@@ -245,10 +245,11 @@ hr {
 }
 
 .container-form {
-    padding: 20px 0;
+    padding: 50px;
     margin: 0 auto;
     color: #000;
     max-width: 100%;
+    text-align: center;
 }
 
 form {
