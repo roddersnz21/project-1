@@ -95,7 +95,7 @@ body {
     display: inline-block;
 }
 
-.cen {
+.central {
     margin: 20px;
     display: block;
     font-size: 2rem;
@@ -337,6 +337,7 @@ input, select {
 }
 
 /* media queries */
+
 
 @media screen and (max-width: 605px) {
     .logo, .menubar li {
