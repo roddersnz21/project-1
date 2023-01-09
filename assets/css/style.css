@@ -327,20 +327,16 @@ input, select {
 /* media queries */
 
 
-@media screen and (max-width: 605px) {
-    .logo, .menubar li {
-        font-size: 1rem
+@media screen and (max-width: 640px) {
+    .about-img img {
+      width: 100%;
     }
-}
 
-@media screen and (max-width: 1070px) {
-    .social-media a {
-        margin: 0 30px;
+    .menubar > li {
+        font-size: .9rem;
     }
-}
 
-@media screen and (max-width: 665px) {
-    .social-media a {
-        margin: auto;
+    .logo {
+        font-size: 1rem;
     }
 }
