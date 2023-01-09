@@ -1,5 +1,9 @@
 # **Hero Pizza**
 
+![Am I Responsive](docs/responsive.jpg)
+
+**Visit [Hero Pizza](https://roddersnz21.github.io/project-1/)**
+
 ## **Purpose** ##
 
 Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 years. We are passionate about Napoliatn style pizza and aim to deliver the best pizza in Dublin. Our supplier are locally sourced in Ireland and we use fresh and organic produce and flour. We use state of the art woodfie oven from Italy giving the typical Naepolitan crispy crust and soft pizza.<br><br> This website has our history, pizza menu, contact details and a booking form.
@@ -57,7 +61,9 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
     ![Confirmation page](docs/confirmation-page.jpg)
     - This page confirms user's booking after submitting form
 
+- ### Responsive Design
 
+  **Mobile phone** iPhone 12 Pro
 
 
 

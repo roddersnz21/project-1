@@ -327,7 +327,6 @@ input, select {
 
 /* media queries */
 
-
 @media screen and (max-width: 640px) {
     .about-img img {
       width: 100%;
