@@ -34,13 +34,13 @@ body {
     order: 1;
     font-size: 2.5rem;
     margin-bottom: 0.5rem;
-    margin-left: 30px;
+    margin-left: 2rem;
 }
 
 .menubar {
     order: 2;
     display: flex;
-    margin-right: 30px;
+    margin-right: 3rem;
 }
 
 .menubar li {
