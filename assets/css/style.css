@@ -231,13 +231,12 @@ body {
 }
 
 .heading {
-    font-size: 1.8rem;
-    text-transform: uppercase;
+    font-size: 2.4rem;
 }
 
 .heading-days {
     color: #998100;
-    font-size: 1.6rem;
+    font-size: 1.2rem;
 }
 
 hr {
