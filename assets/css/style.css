@@ -220,7 +220,6 @@ body {
     box-shadow: 10px 15px 20px rgba(0, 0, 0, 0.1);
     display: grid;
     gap: 1rem;
-    grid-template-columns: repeat(auto-fit, minmax(390px, 1fr));
 }
 
 .container-time {
