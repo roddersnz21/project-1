@@ -94,6 +94,11 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
 
 - The font for the entire webpage is [Poppins](https://fonts.google.com/specimen/Poppins)
 
+## **Wireframe**
+
+![Wireframe](docs/wireframe.jpg)
+- My initial wireframe was for single page website but as the project evolved I decided to go for a rolling website. I believe it's faster to access information, imerses customers to the website's story and it's optimised for mobiles.
+
 
 
 
