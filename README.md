@@ -63,7 +63,16 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
 
 - ### Responsive Design
 
-  **Mobile phone** iPhone 12 Pro
+  **Mobile phone** iPhone 6/7/8/Plus
+
+  ![Responsive design phone](docs/iphone.jpg)
+
+  **Tablet** iPad
+
+  ![Responsive design Ipad](docs/ipad.jpg)
+  - The website is designed to be easy to read on a laptop
+
+  
 
 
 
