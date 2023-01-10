@@ -72,7 +72,22 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
   ![Responsive design Ipad](docs/ipad.jpg)
   - The website is designed to be easy to read on a laptop
 
-  
+  ## **Fonts and Colors** 
+- Webpage will use three main colors
+    - #fff navbar background
+    - #444 menubar a
+    - #e84401 menubar hover
+    - #f1f1f1 button
+    - rgb(220, 220, 220) about section
+    - red
+- Black and white
+    - #fffffff2
+    - #000000cc
+    - Black color will be used for most of the text
+- Showcase area has a linear gradient color
+    - rgba(240, 240, 240, 0.144), rgba(255, 255, 255, 0.336)
+
+- The font for the entire webpage is [Orbitron](https://fonts.google.com/specimen/Orbitron)
 
 
 
