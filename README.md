@@ -79,7 +79,7 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
     - #444
     - rgb(220, 220, 220)
     - #998100
-    
+
 - Box shadow, button, hover and euro price colors below:
     - #aaa
     - rgba(0, 0, 0, 0.1)
@@ -102,6 +102,15 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
 ## **Testing** 
 
 ### **Code validation**
+- W3C HTML Validator 
+    - [index.html](docs/w3c-index-html.jpg)
+    - [confirmation.html](docs/w3c-comfirmation-html.jpg)
+
+- W3C CSS Validator 
+    - [style.css](docs/w3c-style-css.jpg)
+
+
+
 
 
 
