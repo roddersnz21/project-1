@@ -166,8 +166,19 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
     ![Validator](docs/w3c-style-css.jpg)
     - No necessary action on warning
 
-
-
+### Technology
+- **Balsamiq**
+  - Used Balsamiq wireframes to draw initial stage of project
+- **VS Code**
+  - Used VS Code as my source code editor
+- **GitPod**
+  - Used GitPod as my open source application to write code 
+- **GitHub**
+  - Used GitHub as my cloud based Git repository to store code
+- **GitHub Pages**
+  - Used GitHub Pages as my static site hosting service
+- **Chrome DevTools**
+  - Used Google Chrome DevTools to inspect, edit, debug and test my code and measure HTML and CSS files performance
 
 
 
