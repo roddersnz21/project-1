@@ -191,6 +191,16 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
     - Firefox
     - Safari
 
+## **Deployment**
+ ### GitHub Pages
+- Deploy site in GitHub pages following steps below:
+- In the GitHub repository, navigate and click Settings link
+- In the menu on the left hand side navigate and click on Pages link
+- From the Source section select Deploy from a branch drop-down menu
+- From the Branch section select main and root from the drop-down menu and click on Save
+- After a couple of minutes the page will refresh with a detailed display saying your website is live and link in blue indicating successful deployment
+- The live link can be found here - https://roddersnz21.github.io/project-1/
+
 
 
 
