@@ -205,6 +205,29 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
   - Website was coded using GitPod. The steps to deploy are below:
   - In the GitHub repository, press the green GitPod button for transfer the project to GitPod environment
 
+## **Credits**
+
+  ### Content
+  - Forno 500 Italian Restaurant [information](https://www.forno500.ie/)
+  ### Media
+ - I used pictures from [Pexel](https://www.pexels.com/search/pizza/)
+ - I used icons from [Fontawesome](https://fontawesome.com/)
+ - I used [Poppins](https://fonts.google.com/specimen/Poppins) from Google Fonts
+
+  ### Other
+  - Ideas and support from various sites, tutors and Code Institute network below:
+  - [LoveRunning](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode) project was of great help for implementing Navbar and Footer code
+  - [W3schools](https://www.w3schools.com/w3css/w3css_web_tmp_pizza.asp) was a good source for troubleshooting whenever I had issues with my code
+  - [Codewithrandom](https://www.codewithrandom.com/2022/08/05/restaurant-website-html-css/) help me set my website structure, overall look and code
+  - [KevinPowell](https://www.youtube.com/@KevinPowell) Kevin's YouTube channel great source of support understanding flexbox, grid and troubleshooting
+  - [TraversyMedia](https://www.youtube.com/@TraversyMedia) Traversy Media YouTube channel also a great source of support and troubleshooting especially with CSS
+  - [Developedbyed](https://www.youtube.com/@developedbyed) Developedbyed YouTube channel gave me inspiration to try different ideas as well as troubleshooting
+  - [CSSTricks](https://css-tricks.com/) CSS Tricks helped me fix my CSS code throughout the project
+  - [Code Institute student template](https://github.com/Code-Institute-Org/gitpod-full-template) template for Gitpod was used for this project
+  - Mentor **Dick Vlaanderen** helped and inspired me to try different approaches to this project
+  - Cohort Facilitator **Paul Thomas** for his patience and support with us beginners as well as his consistency at chairing weekly catchups online and genuine interest in our projects 
+  - Slack forum for support
+
 
 
 
