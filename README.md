@@ -11,11 +11,9 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
 ## **User Stories** ##
 
 - As a customer I want an objective and easy to use navbar menu
-- As a customer I would like to read the history of the restaurant
-- As a customer I want to choose a pizza from the menu
-- As a customer I want to check pizza prices
-- As a customer I want to check opening days and hours
-- As a customer I want to check the address and contact number
+- As a customer I want to read the history of the restaurant
+- As a customer I want to see the menu and prices
+- As a customer I want to check opening days, hours, address and contact number
 - As a customer I want to make a booking
 - As a customer I want confirmation of my booking
 
@@ -127,9 +125,27 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
         ![index.html](docs/navbar-user.jpg)
         <br><br>
 
+  - **`As a customer I would like to read the history of the restaurant`**
+    - About Us Section
+        - A brief history of the restaurant, fresh ingredients used and image of wood oven
+        ![index.html](docs/about-us.jpg)
+        <br><br>
+
+  - **`As a customer I want to see the menu and prices`**
+    - Pizza Menu Section
+        - Circle image of six different pizzas including description of their ingredients and prices
+        ![index.html](docs/pizza-menu.jpg)
+        <br><br>
+
+  - **`As a customer I want to check opening days, hours, address and contact number`**
+    - Booking Section
+        - Upper container has opening days, times, phone number and restaurant address
+        ![index.html](docs/opening-times.jpg)
+        <br><br>
+
   - **`As a customer I want to make a booking`**
-    - Booking section
-        - Text fields are required to be filled for form submission
+    - Booking Section
+        - Lower container is a form with text fields required to be filled for form submission
         ![index.html](docs/form-required.jpg)
         <br>
         - Form filled correctly
@@ -137,7 +153,7 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
         <br><br>
 
   - **`As a customer I want confirmation of my booking`**
-    - Confirmation page
+    - Confirmation Page
         - After filling the form correctly and hitting submit button a new page opens confirming your booking
         ![confirmation.html](docs/confirmation-page.jpg)
 
