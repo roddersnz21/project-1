@@ -201,6 +201,11 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
 - After a couple of minutes the page will refresh with a detailed display saying your website is live and link in blue indicating successful deployment
 - The live link can be found here - https://roddersnz21.github.io/project-1/
 
+### GitPod
+  - Website was coded using GitPod. The steps to deploy are below:
+  - In the GitHub repository, press the green GitPod button for transfer the project to GitPod environment
+
+
 
 
 
