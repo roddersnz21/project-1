@@ -6,7 +6,7 @@
 
 ## **Purpose** ##
 
-Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 years. We are passionate about Napoliatn style pizza and aim to deliver the best pizza in Dublin. Our supplier are locally sourced in Ireland and we use fresh and organic produce and flour. We use state of the art woodfie oven from Italy giving the typical Naepolitan crispy crust and soft pizza.<br><br> This website has our history, pizza menu, contact details and a booking form.
+Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 years. We are passionate about Neapolitan style pizza and aim to deliver the best pizza in Dublin. Our suppliers are locally sourced in Ireland and we use fresh and organic produce and flour. Our state of the art wood fire oven comes from Italy giving the typical Neapolitan crispy crust and soft pizza.<br><br> This website has our history, pizza menu, contact details and a booking form.
 
 ## **User Stories** ##
 
@@ -179,6 +179,17 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
   - Used GitHub Pages as my static site hosting service
 - **Chrome DevTools**
   - Used Google Chrome DevTools to inspect, edit, debug and test my code and measure HTML and CSS files performance
+
+## Supported screens and browsers
+  - For this web page different screen sizes were tested and no errors were found. This specific sizes were validated
+    - **Mobile** 414x736 iPhone 6/7/8 Plus
+      - Below 640px media queries will adapt website to smaller screens
+    - **Tablet** 768x1024 iPad
+    - **Desktop** 1920x1024
+  - Browsers 
+    - Google Chrome
+    - Firefox
+    - Safari
 
 
 
