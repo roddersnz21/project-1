@@ -118,6 +118,29 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
     - ![index.html mobile](docs/lighthouse-index-html-mobile.jpg)
     - ![confirmation.html mobile](docs/lighthouse-confirmation-mobile.jpg)
 
+### **Test cases** 
+<br>
+
+  - **`As a customer I want an objective and easy to use navbar menu`** 
+    - Navigation Bar
+        - Navbar always visible when scrolling and easier for user to click on menu links. Links will take you to each section of website and hover over function shows which link user is about to click
+        ![index.html](docs/navbar-user.jpg)
+        <br><br>
+
+  - **`As a customer I want to make a booking`**
+    - Booking section
+        - Text fields are required to be filled for form submission
+        ![index.html](docs/form-required.jpg)
+        <br>
+        - Form filled correctly
+        ![index.html](docs/form-correct.jpg)
+        <br><br>
+
+  - **`As a customer I want confirmation of my booking`**
+    - Confirmation page
+        - After filling the form correctly and hitting submit button a new page opens confirming your booking
+        ![confirmation.html](docs/confirmation-page.jpg)
+
 
 
 
