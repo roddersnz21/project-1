@@ -157,6 +157,19 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
         - After filling the form correctly and hitting submit button a new page opens confirming your booking
         ![confirmation.html](docs/confirmation-page.jpg)
 
+### Fixed Bugs
+  - W3C validator indicated two errors in index.html
+    ![Validator](docs/w3c-html-fix.jpg)
+    - Fixed error and ran validator again successfully with no errors or warnings
+    <br><br>
+  - W3C validator indicated no errors but one warning in style.css
+    ![Validator](docs/w3c-style-css.jpg)
+    - No necessary action on warning
+
+
+
+
+
 
 
 
