@@ -71,7 +71,7 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
   - The website is designed to be easy to read on a laptop
 
   ## **Colors and Font** 
-- Webpage will use colors below:
+- Website uses colors below:
     - #fff
     - #000
     - #444
@@ -95,7 +95,7 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
 ## **Wireframe**
 
 ![Wireframe](docs/wireframe.jpg)
-- My initial wireframe was for single page website but as the project evolved I decided to go for a rolling website. I believe it's faster to access information, imerses customers to the website's story and it's optimised for mobiles.
+- My initial wireframe was for single page website but as the project evolved I decided to go for a rolling website. I believe it's faster to access information, imerses users to the website's story and it's optimised for mobiles.
 
 ## **Testing** 
 
@@ -156,6 +156,13 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
     - Confirmation Page
         - After filling the form correctly and hitting submit button a new page opens confirming your booking
         ![confirmation.html](docs/confirmation-page.jpg)
+
+- **Testing the website on Safari and Firefox browser** 
+    - Website works in Safari 16.1
+        ![Safari](docs/safari-home.jpeg)
+    <br><br>
+    - Website works in Firefox 108.0.2
+        ![Firefox](docs/firefox-home.jpg)
 
 ### Fixed Bugs
   - W3C validator indicated two errors in index.html
