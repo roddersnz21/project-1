@@ -27,31 +27,31 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
 
 - ### Features Table
     ![Features Table](docs/features-table.jpg)
-
+<br><br>
 - ### Navigation Bar
     ![Navigation Bar](docs/navbar.jpg)
     - Navigation bar indicates different sections of the website
     - Navigation bar is always visible
     - Navigation bar links will highlight red when hovered
-    - Navigtion bar has a shadow and opacity effect
-
+    - Navigation bar has a shadow and opacity effect
+<br><br>
 - ### Hero image and slogan
     ![Hero image and slogan](docs/hero-image-and-slogan.jpg)
     - Background image with linear gradient effect
     - Slogan inside a box to grab users attention and overlay text reinforcing business' authenticity
     - Menu button with hover effect will take user to menu section after clicking it
-
+<br><br>
 - ### About Us
     ![About Us](docs/about-us.jpg)
     - Section with image and info about our history to add value and ingredients used to gain users confidence dining with us
     - Text divided into two separate paragraphs with an image on right hand side giving good visual effect, short and easy to read
-
+<br><br>
 - ### Menu
     ![Menu](docs/pizza-menu.jpg)
     - Images, description and price of six types of pizza
     - Images are circled in the shape of pizzas
     - This section is in constant change as we update our menu during the year
-
+<br><br>
 - ### Booking
     ![Booking](docs/booking.jpg)
     - Booking section in a grid display
@@ -59,16 +59,16 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
     - Other box is a form with fields for full name, phone number, email, date, time and number of people.
     - Submit button has a hover effect and shadow
     - Once submit button is clicked, it'll take user to confirmation page
-
+<br><br>
 - ### Footer
     ![Footer](docs/footer.jpg)
     - Footer section with five clickable social media icons
-    - Icons have hover effect
+<br><br>
 
 - ### Confirmation page
     ![Confirmation page](docs/confirmation-page.jpg)
     - This page confirms user's booking after submitting form
-
+<br><br>
 - ### Responsive Design
 
   **Mobile phone** iPhone 6/7/8/Plus
@@ -91,7 +91,7 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
     - #444
     - rgb(220, 220, 220)
     - #998100
-
+<br><br>
 - Box shadow, button, hover and euro price colors below:
     - #aaa
     - rgba(0, 0, 0, 0.1)
@@ -100,39 +100,39 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
     - #313131
     - #f1f1f1
     - #e84401
-
+<br><br>
 - Showcase area has a linear gradient color below:
     - rgba(240, 240, 240, 0.144), rgba(255, 255, 255, 0.336)
-
+<br><br>
 - The font for the entire webpage is [Poppins](https://fonts.google.com/specimen/Poppins)
-
+<br><br>
 ## **Testing** 
 
 ### **Code validation**
 - W3C HTML Validator 
     - index.html page validator
     - ![index.html](docs/w3c-index-html.jpg)
-    <br>
+<br><br>
     - confirmation.html page validator
     - ![confirmation.html](docs/w3c-comfirmation-html.jpg)
-
+<br><br>
 - W3C CSS Validator 
     - style.css validator
     - ![style.css](docs/w3c-style-css.jpg)
-
+<br><br>
 ### **Lighthouse**
 - Lighthouse desktop index.html
     - ![index.html desktop](docs/lighthouse-index-html-desktop.jpg)
-    <br>
+<br><br>
 - Lighthouse desktop confirmation.html
     - ![confirmation.html desktop](/docs/lighthouse-confirmation.desktop.jpg)
-
+<br><br>
 - Lighthouse mobile index.html
     - ![index.html mobile](docs/lighthouse-index-html-mobile.jpg)
-    <br>
+<br><br>
 - Lighthouse mobile confirmation.html
     - ![confirmation.html mobile](docs/lighthouse-confirmation-mobile.jpg)
-
+<br><br>
 ### **Test cases** 
 <br>
 
@@ -167,7 +167,7 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
     - Booking Section
         - Lower container is a form with text fields required to be filled for form submission
         ![index.html](docs/form-required.jpg)
-        <br>
+        <br><br>
         - Form filled correctly
         ![index.html](docs/form-correct.jpg)
         <br><br>
@@ -186,7 +186,7 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
     <br><br>
     - Website works in Firefox 108.0.2
         ![Firefox](docs/firefox-home.jpg)
-
+<br><br>
 ### Fixed Bugs
   - W3C validator indicated two errors in index.html
     ![Validator](docs/w3c-html-fix.jpg)
