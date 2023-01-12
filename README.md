@@ -1,12 +1,13 @@
 # **Hero Pizza**
+<br>
+
+## **Purpose** ##
+
+Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 years. We are passionate about Neapolitan style pizza and aim to deliver the best pizza in Dublin. Our suppliers are locally sourced in Ireland and we use fresh and organic produce and flour. Our state of the art wood fire oven comes from Italy giving the typical Neapolitan crispy crust and soft pizza.<br><br> This website has about us, pizza menu, contact details and booking form sections with a confirmation page after booking is successful.
 
 ![Am I Responsive](docs/responsive.jpg)
 
 **Visit [Hero Pizza](https://roddersnz21.github.io/project-1/)**
-
-## **Purpose** ##
-
-Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 years. We are passionate about Neapolitan style pizza and aim to deliver the best pizza in Dublin. Our suppliers are locally sourced in Ireland and we use fresh and organic produce and flour. Our state of the art wood fire oven comes from Italy giving the typical Neapolitan crispy crust and soft pizza.<br><br> This website has our history, pizza menu, contact details and a booking form.
 
 ## **User Stories** ##
 
@@ -16,6 +17,11 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
 - As a customer I want to check opening days, hours, address and contact number
 - As a customer I want to make a booking
 - As a customer I want confirmation of my booking
+
+## **Wireframe**
+
+![Wireframe](docs/wireframe.jpg)
+- My initial wireframe was for single page website but as the project evolved I decided to go for a rolling website. I believe it's faster to access information, imerses users to the website's story and it's optimised for mobiles.
 
 ## **Features**
 
@@ -34,17 +40,18 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
 
 - ### About Us
     ![About Us](docs/about-us.jpg)
-    - Section with image and info about history and ingredients used to make pizza
-    - Text divided into two seperate paragraphs to giving good visual effect, short and easy to read
+    - Section with image and info about our history to add value and ingredients used to gain users confidence dining with us
+    - Text divided into two separate paragraphs with an image on right hand side giving good visual effect, short and easy to read
 
 - ### Menu
     ![Menu](docs/pizza-menu.jpg)
     - Images, description and price of six types of pizza
     - Images are circled in the shape of pizzas
+    - This section is in constant change as we update our menu during the year
 
 - ### Booking
     ![Booking](docs/booking.jpg)
-    - Booking section in a grid display separated in two
+    - Booking section in a grid display
     - One box includes restaurant's opening days and times, contact number and address
     - Other box is a form with fields for full name, phone number, email, date, time and number of people.
     - Submit button has a hover effect and shadow
@@ -68,6 +75,10 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
   **Tablet** iPad
 
   ![Responsive design Ipad](docs/ipad.jpg)
+
+  **Laptop** MacBook Air
+
+  ![Responsive design macbook](docs/macbook.jpg)
   - The website is designed to be easy to read on a laptop
 
   ## **Colors and Font** 
@@ -91,11 +102,6 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
     - rgba(240, 240, 240, 0.144), rgba(255, 255, 255, 0.336)
 
 - The font for the entire webpage is [Poppins](https://fonts.google.com/specimen/Poppins)
-
-## **Wireframe**
-
-![Wireframe](docs/wireframe.jpg)
-- My initial wireframe was for single page website but as the project evolved I decided to go for a rolling website. I believe it's faster to access information, imerses users to the website's story and it's optimised for mobiles.
 
 ## **Testing** 
 
@@ -157,7 +163,10 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
         - After filling the form correctly and hitting submit button a new page opens confirming your booking
         ![confirmation.html](docs/confirmation-page.jpg)
 
-- **Testing the website on Safari and Firefox browser** 
+- **Testing the website on Safari and Firefox browser**
+    - Website works in Chrome 108.0.5359.124
+        ![Chrome](docs/chrome.jpg)
+    <br><br>
     - Website works in Safari 16.1
         ![Safari](docs/safari-home.jpeg)
     <br><br>
