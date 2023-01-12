@@ -25,6 +25,9 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
 
 ## **Features**
 
+- ### Features Table
+    ![Features Table](docs/features-table.jpg)
+
 - ### Navigation Bar
     ![Navigation Bar](docs/navbar.jpg)
     - Navigation bar indicates different sections of the website
@@ -80,7 +83,7 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
 
   ![Responsive design macbook](docs/macbook.jpg)
   - The website is designed to be easy to read on a laptop
-
+<br><br>
   ## **Colors and Font** 
 - Website uses colors below:
     - #fff
@@ -107,23 +110,34 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
 
 ### **Code validation**
 - W3C HTML Validator 
+    - index.html page validator
     - ![index.html](docs/w3c-index-html.jpg)
+    <br>
+    - confirmation.html page validator
     - ![confirmation.html](docs/w3c-comfirmation-html.jpg)
 
 - W3C CSS Validator 
+    - style.css validator
     - ![style.css](docs/w3c-style-css.jpg)
 
 ### **Lighthouse**
-- Lighthouse desktop 
+- Lighthouse desktop index.html
     - ![index.html desktop](docs/lighthouse-index-html-desktop.jpg)
+    <br>
+- Lighthouse desktop confirmation.html
     - ![confirmation.html desktop](/docs/lighthouse-confirmation.desktop.jpg)
 
-- Lighthouse mobile 
+- Lighthouse mobile index.html
     - ![index.html mobile](docs/lighthouse-index-html-mobile.jpg)
+    <br>
+- Lighthouse mobile confirmation.html
     - ![confirmation.html mobile](docs/lighthouse-confirmation-mobile.jpg)
 
 ### **Test cases** 
 <br>
+
+- ### User Stories Table
+    ![User Table](docs/user-table.jpg)
 
   - **`As a customer I want an objective and easy to use navbar menu`** 
     - Navigation Bar
@@ -162,9 +176,9 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
     - Confirmation Page
         - After filling the form correctly and hitting submit button a new page opens confirming your booking
         ![confirmation.html](docs/confirmation-page.jpg)
-
+    <br><br>
 - **Testing the website on Safari and Firefox browser**
-    - Website works in Chrome 108.0.5359.124
+    - Website works in Chrome 109.0.5414.87
         ![Chrome](docs/chrome.jpg)
     <br><br>
     - Website works in Safari 16.1
@@ -253,3 +267,6 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
 
 
 
+
+
+[def]: docs/user-table.jpg
