@@ -235,6 +235,14 @@ Hero Pizza is a family owned Italian pizzeria based in Dublin 15 for over 20 yea
   - Website was coded using GitPod. The steps to deploy are below:
   - In the GitHub repository, press the green GitPod button for transfer the project to GitPod environment
 
+### Local Deployment
+  - Share GitHub repository link with collaborator
+  - Collaborators will open repository and click on Code button on the left of green Gitpod button
+  - Copy link or click copy button on right hand side of link
+  - Collaborator will open their terminal and type: git clone "paste link" and run command
+  - This action will take the remote repository, copies to collaborator's machine and recreates all files and folders from my gitpod
+  - Collaborator now will have a local copy of all files and able to make changes and edit
+
 ## **Credits**
 
   ### Content
